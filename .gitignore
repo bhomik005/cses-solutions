@@ -1,8 +1,7 @@
-# Binaries
-a.out
-*.out
-*.exe
-*.o
+# Python
+__pycache__/
+*.pyc
+.venv/
 
 # Local test data
 *.txt
