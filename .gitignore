@@ -1,0 +1,13 @@
+# Binaries
+a.out
+*.out
+*.exe
+*.o
+
+# Local test data
+*.txt
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
